@@ -1,2 +1,4 @@
 # Hello-world
-just another repositiry
+
+Hi,
+Im Joël, an first-year IT Sudent.
